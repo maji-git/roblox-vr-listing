@@ -34,3 +34,5 @@
 78699621133325
 # Cornerstone Arcade
 4870984160
+# Arcade Island
+2185497593
