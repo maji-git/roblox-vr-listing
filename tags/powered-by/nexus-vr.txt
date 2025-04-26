@@ -1,0 +1,7 @@
+# Powered by Nexus VR games
+# This list is used to keep track of native VR games that's powered by Nexus VR Character Model
+# ------------------------- #
+# Rap Ability Test
+9571630408
+# Innovation Inc. Thermal Power Plant
+2337178805
