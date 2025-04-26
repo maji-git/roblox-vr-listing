@@ -1,3 +1,6 @@
+# Exclusive VR games
+# Games that can only be played in VR.
+# ------------------------- #
 # EdgeWorks
 4545054277
 # Clashers VR
